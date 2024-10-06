@@ -66,6 +66,13 @@ The frontend uses:
    ```
 4. The frontend will be available at `http://localhost:3000`.
 
+## Video Overview
+
+Here is an animation of PrithviAI in action:  
+<img src="./img/media.gif" alt="PrithviAI Demo" width="800">
+
+
+
 ### AI Model Training
 The AI models are trained using historical emissions data collected from global sources, such as Earth.gov. The system allows for retraining the models as new data becomes available, ensuring continuous improvement in prediction accuracy.
 
